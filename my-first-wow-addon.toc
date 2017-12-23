@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: My First WoW Addon
+## Author: Piotr Myszczyński
+## Version: 0.1
+
+main.lua
